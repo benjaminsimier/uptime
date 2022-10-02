@@ -6,6 +6,8 @@ sites:
     url: https://www.benjaminsimier.com
   - name: Tanzanie Adventure Safaris
     url: https://www.tanzanieadventuresafaris.co.tz
+  - name: AGLB Sophrologue
+    url: https://aglb-sophrologue.fr
 
 status-website:
   baseUrl: /uptime
