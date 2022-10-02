@@ -8,6 +8,8 @@ sites:
     url: https://www.tanzanieadventuresafaris.co.tz
   - name: AGLB Sophrologue
     url: https://aglb-sophrologue.fr
+  - name: La Fine Bouche Camion
+    url: https://www.lafinebouchecamion.fr
 
 status-website:
   baseUrl: /uptime
