@@ -1,6 +1,5 @@
-# Change these first
-owner: benjaminsimier # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+owner: benjaminsimier
+repo: uptime
 
 sites:
   - name: Benjamin Simier
@@ -9,14 +8,10 @@ sites:
     url: https://www.tanzanieadventuresafaris.co.tz
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /uptime
-  # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Uptime monitor"
+  introTitle:
   introMessage:
   navbar:
     - title: Status
