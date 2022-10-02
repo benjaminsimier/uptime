@@ -13,6 +13,8 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: Benjamin Simier
     url: https://www.benjaminsimier.com
+  - name: Tanzanie Adventure Safaris
+    url: https://www.tanzanieadventuresafaris.co.tz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
