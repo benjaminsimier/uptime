@@ -22,9 +22,9 @@
     "url": "https://www.tanzanieadventuresafaris.co.tz",
     "icon": "https://icons.duckduckgo.com/ip3/www.tanzanieadventuresafaris.co.tz.ico",
     "slug": "tanzanie-adventure-safaris",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2170,
     "timeMonth": 2170,
     "timeYear": 2170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-09": 0
+    }
   },
   {
     "name": "AGLB Sophrologue",
