@@ -22,19 +22,19 @@
     "url": "https://www.tanzanieadventuresafaris.co.tz",
     "icon": "https://icons.duckduckgo.com/ip3/www.tanzanieadventuresafaris.co.tz.ico",
     "slug": "tanzanie-adventure-safaris",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2170,
-    "timeDay": 900,
-    "timeWeek": 2170,
-    "timeMonth": 2170,
-    "timeYear": 2170,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 2382,
+    "timeDay": 3233,
+    "timeWeek": 2382,
+    "timeMonth": 2382,
+    "timeYear": 2382,
     "dailyMinutesDown": {
-      "2022-10-09": 0
+      "2022-10-09": 58
     }
   },
   {
