@@ -47,19 +47,19 @@
     "url": "https://aglb-sophrologue.fr",
     "icon": "https://icons.duckduckgo.com/ip3/aglb-sophrologue.fr.ico",
     "slug": "aglb-sophrologue",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3408,
-    "timeDay": 3457,
-    "timeWeek": 3650,
-    "timeMonth": 3408,
-    "timeYear": 3408,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 3563,
+    "timeDay": 5751,
+    "timeWeek": 4200,
+    "timeMonth": 3563,
+    "timeYear": 3563,
     "dailyMinutesDown": {
-      "2022-10-27": 0
+      "2022-10-27": 11
     }
   },
   {
